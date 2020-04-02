@@ -1,0 +1,17 @@
+{
+    "firstApi":{
+        "host":"webknox-words.p.rapidapi.com",
+        "key":"af05b50c32mshdb9ab8dfeb767f9p1665a7jsna3c01c23137f"
+    },
+    "secondApi":{
+        "host":"restcountries-v1.p.rapidapi.com",
+        "key":"af05b50c32mshdb9ab8dfeb767f9p1665a7jsna3c01c23137f"
+    },
+    "thirdApi":{
+        "host":"google-search1.p.rapidapi.com",
+        "key":"af05b50c32mshdb9ab8dfeb767f9p1665a7jsna3c01c23137f"
+    },
+    "server":{
+        "port":3000
+    }
+}

@@ -1,0 +1,62 @@
+.main-container{
+    width: 90%;
+    display: block;
+    margin: 0px auto;
+    margin-top: 30px;
+    min-height: 300px;
+}
+
+p{
+    font-size: 20px;
+
+}
+
+input[type="text"]{
+    padding: 6px 15px;
+    font-size: 18px;
+    min-width: 350px;
+    padding-bottom: 9px;
+}
+
+.left-box{
+    width:45%;
+    margin-right: 5%;
+    float: left;
+    min-height: 190px;
+}
+
+.right-box{
+    width: 45%;
+    margin-left: 5%;
+    float: right;
+    min-height: 190px;
+}
+
+.bottom-box{
+    width: 100%;
+    margin-top: 20px;
+    clear: both;
+    min-height: 200px;
+}
+
+#searchSubmit{
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#firstResult,#secondResult{
+    padding: 16px 0px;
+    font-size: 18px;
+    color:#777;
+}
+
+.resultLink{
+    font-size:20px;
+}
+
+.snippet{
+    margin-left: 0px;
+    width: 70%;
+    margin-bottom: 12px;
+    margin-top: 3px;
+}
